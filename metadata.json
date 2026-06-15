@@ -1,0 +1,6 @@
+{
+  "name": "Sudhanshu Shekhar Mishra Portfolio",
+  "description": "A serene, high-fidelity portfolio website with a custom 3D skeuomorphic interactive tablet, active scroll transitions, cross-fading background, and immersive animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
