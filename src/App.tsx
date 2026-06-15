@@ -488,7 +488,7 @@ export default function App() {
                   {/* Resume primary trigger */}
                   <a
                     id="resume-download-link"
-                    href="sudhanshu-shekhar-mishra.pdf"
+                    href="/sudhanshu-shekhar-mishra.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className={`flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl font-display font-bold text-sm tracking-wide transition-all shadow hover:scale-[1.02] active:scale-95 cursor-pointer ${
@@ -812,7 +812,7 @@ export default function App() {
                     className="mt-4 rounded-xl border border-stone-200 dark:border-neutral-850 p-1.5 bg-white relative overflow-hidden flex items-center justify-center transition-all duration-300 shadow-sm"
                   >
                     <img
-                      src="bionex-certificate.png"
+                      src="/bionex-certificate.png"
                       alt="Internship Certificate of Completion"
                       referrerPolicy="no-referrer"
                       className="w-full h-auto object-contain select-none shadow-[0_2px_8px_rgba(0,0,0,0.04)] rounded-[4px]"
