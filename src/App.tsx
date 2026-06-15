@@ -1321,7 +1321,7 @@ export default function App() {
             <div className="flex-1 bg-stone-50 flex items-center justify-center p-3 sm:p-6 shadow-inner overflow-y-auto select-none">
               <div className="w-full max-w-[560px] bg-white drop-shadow-md rounded-sm border border-stone-200/60 overflow-hidden relative aspect-[800/820] flex items-center justify-center">
                 <img
-                  src="/assets/kashiv_certificate.svg"
+                  src="/bionex-certificate.png"
                   alt="Kashiv BioSciences Verified Internship Certificate of Completion"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-contain pointer-events-auto"
