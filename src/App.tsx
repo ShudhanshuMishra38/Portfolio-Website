@@ -43,7 +43,7 @@ const desktopTabletStates: TabletState[] = [
   // Page 0: Landing (Occupies the right-hand column balanced at x: 20vw, scale: 0.95)
   { tx: 18, ty: 0, scale: 0.92, rx: 16, ry: -20, rz: 3, opacity: 1.0, blur: 0, zIndex: 10 },
   // Page 1: Tech Stack (Enlarges, glides to exact viewport center - shifted 50px upward to clear bottom instructions)
-  { tx: 0, ty: 70, scale: 1.05, rx: 6, ry: -6, rz: 0, opacity: 1.0, blur: 0, zIndex: 10 },
+  { tx: 0, ty: 45, scale: 1.05, rx: 6, ry: -6, rz: 0, opacity: 1.0, blur: 0, zIndex: 10 },
   // Page 2: Experience (Slides underneath cards, highly tilted, blurred background element)
   { tx: -20, ty: 80, scale: 1.1, rx: 45, ry: -12, rz: 6, opacity: 0.18, blur: 4, zIndex: 0 },
   // Page 3: Projects (Slides to right background, blurred, out of the text cards' way)
