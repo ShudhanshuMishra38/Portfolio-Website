@@ -1035,7 +1035,7 @@ export default function App() {
                       MY PERSPECTIVE
                     </h4>
                     <p className={darkMode ? 'text-neutral-300' : 'text-stone-600'}>
-                      My development in this field, until now, has followed a freeform pattern. Although not having a clear direction in my mind did dangle my progress, but at the same time, it allowed me to experiment and analyze a varied dataset of skills that piqued my interest in this field of Science.
+                      My development in this field, until now, has followed a freeform pattern. Although not having a clear direction in my mind did dangle my progress, but at the same time, it allowed me to experiment and analyze a diverse set of skills that piqued my interest in this field of Science.
                     </p>
                     <p className={darkMode ? 'text-neutral-300' : 'text-stone-600'}>
                       But now I have a serious urge to create, develop and innovate. And thus, I am looking for opportunities to work with the others and as part of an organization so as to learn from the experience of my peers, gain insights to the persistent problems plaguing our world, and contribute to the advancement of Computer Science.
