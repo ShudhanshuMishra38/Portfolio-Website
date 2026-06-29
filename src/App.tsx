@@ -517,7 +517,7 @@ export default function App() {
 
                     <a
                       id="head-github-icon-link"
-                      href={developerInfo.github}
+                      href="https://github.com/ShudhanshuMishra38"
                       target="_blank"
                       rel="noopener noreferrer"
                       className={`p-3 rounded-xl border transition-all hover:scale-105 ${
