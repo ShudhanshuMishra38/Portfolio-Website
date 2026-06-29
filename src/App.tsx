@@ -1106,7 +1106,7 @@ export default function App() {
                   <p className={`text-xs md:text-sm mt-3 ${
                     darkMode ? 'text-neutral-400' : 'text-stone-500'
                   }`}>
-                    Transmit a message to me throughe form below. Alternatively, reach out via the social media profiles on the Landing page.
+                    Transmit a message to me through the form below. Alternatively, reach out via the social media profiles on the Landing page.
                   </p>
                 </div>
 
